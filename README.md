@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *parmarbharatsingh775@gmail.com*
 
-- 📄 Know about my experiences [(http://www.linkedin.com/in/bharatsinghparmar7)/][(http://www.linkedin.com/in/bharatsinghparmar7)]
+- 📄 Know about my experiences [(http://www.linkedin.com/in/bharatsinghparmar7)/]
 - ⚡ Fun fact *I am a Philomath📚*
 
 <h3 align="
