@@ -1,5 +1,5 @@
 ![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/blob/main/Aditya%20Raj%20Singh%20Banner.gif)
-<h1 align="center">Hey! Aditya Raj Singh Here!</h1>
+<h1 align="center">Hey! Bharat Singh Parmar Here!</h1>
 <h3 align="center">A Budding Developer Currently In 4th Semester Of C.S.E.</h3>
 
 
@@ -13,10 +13,9 @@
 
 - 💬 Ask me about *C, C++, HTML, QBasic*
 
-- 📫 How to reach me *adityashailendra477@gmail.com*
+- 📫 How to reach me *parmarbharatsingh775@gmail.com*
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adityarajsingh007/](https://www.linkedin.com/in/adityarajsingh007/)
-
+- 📄 Know about my experiences [(http://www.linkedin.com/in/bharatsinghparmar7)/][(http://www.linkedin.com/in/bharatsinghparmar7)]
 - ⚡ Fun fact *I am a Philomath📚*
 
 <h3 align="
