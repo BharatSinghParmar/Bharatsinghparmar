@@ -1,16 +1,22 @@
-## Hi there 👋
+![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/blob/main/Aditya%20Raj%20Singh%20Banner.gif)
+<h1 align="center">Hey! Aditya Raj Singh Here!</h1>
+<h3 align="center">A Budding Developer Currently In 4th Semester Of C.S.E.</h3>
 
-<!--
-**BharatSinghParmar/Bharatsinghparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarajsingh007&label=Profile%20views&color=0e75b6&style=flat" alt="adityarajsingh007" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh007" alt="adityarajsingh007" /></a> </p>
+
+- 🔭 I’m currently working on *RaIoT website*
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- 🌱 I’m currently learning *Python, Tailwind CSS, DSA, React*
+
+- 💬 Ask me about *C, C++, HTML, QBasic*
+
+- 📫 How to reach me *adityashailendra477@gmail.com*
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/adityarajsingh007/](https://www.linkedin.com/in/adityarajsingh007/)
+
+- ⚡ Fun fact *I am a Philomath📚*
+
+<h3 align="
