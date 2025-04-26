@@ -1,84 +1,92 @@
-![Banner](https://github.com/BharatSinghParmar/BharatSinghParmar/blob/main/assets/github-banner.png)  
-<h1 align="center">Hey! 👋 I'm Bharat Singh Parmar</h1>
-<h3 align="center">Computer Science Engineer | Data Science Sophomore | AI/ML & IoT Enthusiast</h3>
+<!-- Dynamic Banner Section -->
+<div align="center">
+  <img src="https://github.com/BharatSinghParmar/BharatSinghParmar/blob/main/assets/github-banner.png?raw=true" alt="Bharat's Banner" width="100%"/>
+</div>
 
+<h1 align="center">Namaste! 👋 I'm Bharat Singh Parmar</h1>
+<h3 align="center">AI Engineer • IoT Developer • Competitive Coder</h3>
+
+<!-- Social Badges with Better Alignment -->
 <p align="center">
   <a href="https://linkedin.com/in/bharatsinghparmar7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:parmarbharatsingh775@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/BharatSinghParmar?tab=repositories">
+    <img src="https://img.shields.io/badge/-Projects-20+-brightgreen?style=for-the-badge&logo=github" alt="Projects"/>
   </a>
   <a href="https://github.com/BharatSinghParmar">
-    <img src="https://img.shields.io/github/followers/BharatSinghParmar?label=Follow&style=social" alt="GitHub"/>
+    <img src="https://img.shields.io/github/followers/BharatSinghParmar?label=Follow&style=for-the-badge&color=blue" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** AI-driven IoT solutions and scalable web applications.
-- 🌱 **Learning:** Advanced Python, TensorFlow, Cloud Computing (AWS/Azure), and DSA.
-- 👨‍💻 **Projects:** [Smart Farming IoT](https://github.com/BharatSinghParmar/smart-farming), [Weather Analytics Platform](https://github.com/BharatSinghParmar/weather-dashboard).
-- 💬 **Ask me about:** Python, Java, IoT, or how I automated wind data analysis at DRDO!👨‍🔬
-- ⚡ **Fun fact:** National-level powerlifter 🏋️‍♂️ and former NCC (C certificate) Senior Under Officer leading 200+ cadets || NSS 3 Years of Service.🇮🇳⚔️
+### 🔥 **My Superpowers**
+- 🚀 **AI/ML:** Built weather prediction models with 92% accuracy at Wayspire Tech
+- ⚡ **IoT:** Developed award-winning Smart Farming system with Arduino
+- 🛠️ **Automation:** Reduced DRDO data processing time by 40% via Python scripts
+- 🏋️ **IRL Stats:** NCC C-cert holder • Powerlifting Champion • NSS Volunteer
 
 ---
 
-### 🛠️ Technologies & Tools
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-**Data Science:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-**Tools:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🛠️ **Tech Arsenal**
+| **Domain**         | **Tools & Technologies**                                      |
+|--------------------|-------------------------------------------------------------|
+| **AI/ML**         | TensorFlow, PyTorch, Scikit-learn, OpenCV                   |
+| **Cloud/DevOps**  | AWS EC2/S3, Docker, Kubernetes, CI/CD Pipelines            |
+| **Web Dev**       | MERN Stack, Spring Boot, Flask, WordPress                   |
+| **IoT**           | Arduino, Raspberry Pi, Embedded C, Sensor Networks          |
+| **Databases**     | MySQL, MongoDB, Firebase                                    |
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 **Top Projects**
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **DRDO Wind Analysis** | Automated weather data processing | Python, Windy API, Plotly | [Code](https://github.com/BharatSinghParmar/drdo-wind-analysis) |
+| **Smart Farming IoT** | Real-time crop monitoring system | Arduino, Java, IoT | [Demo](#) |
+| **Weather Analytics** | Processed 2M+ daily data points | Python, Bokeh, Flask | [Live](#) |
+
+</div>
+
+---
+
+### 📊 **GitHub Analytics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BharatSinghParmar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatSinghParmar&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BharatSinghParmar&theme=dark"/>
+</div>
+
+---
+
+### 📚 **Currently Leveling Up**
+- 🌐 **Full-Stack:** Mastering Microservices Architecture
+- ☁️ **Cloud:** AWS Solutions Architect Certification
+- 🤖 **AI:** Exploring Computer Vision with OpenCV
+
+---
+
+### 🎯 **Let's Build Together!**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharatSinghParmar&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatSinghParmar&theme=radical" alt="Streak Stats"/>
+  <a href="https://linkedin.com/in/bharatsinghparmar7">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="64"/>
+  </a>
+  <a href="mailto:parmarbharatsingh775@gmail.com">
+    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="64"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="64"/>
+  </a>
 </p>
 
----
-
-### 🏻 Featured Projects
-1. **DRDO Wind Data Automation**  
-   - Automated analysis using Python Windy API (40% faster processing).  
-   - [View Code](https://github.com/BharatSinghParmar/drdo-wind-analysis)  
-
-2. **Smart Farming IoT**  
-   - Arduino-based system with real-time Java dashboard.  
-   - [Demo Video](https://youtube.com/sample-link)  
-
-3. **Copernicus Weather Platform**  
-   - Processed 2M+ daily data points with Bokeh/Flask.  
-
----
-
-### 🏆 Achievements
-- **Robotics:** 3rd Position @ Aadhar 11 & Amity Odyssey (50+ teams).  
-- **Sports:** State Powerlifting Champion 🏅 | National Football Player.  
-- **Microsoft Azure AI** Certified (Coursera, 2024).  
-
----
-
-<p align="center"> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-  <em><b>Let's connect!</b> Open to collaborations on AI/IoT projects.</em>
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200">
+  <br>
+  <em>"Code is poetry, and hardware is its canvas"</em>
 </p>
